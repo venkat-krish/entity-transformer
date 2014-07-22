@@ -1,9 +1,6 @@
 # entity-transformer
-------------------------------------------------------------
 
 ## Description
-
-------------------------------------------------------------
 
 Utility lib for copying properties value from one object to another
 
@@ -15,4 +12,11 @@ In your command prompt or terminal, goto the directory of entity-transformer and
 
 	mvn clean install
 
-	
+### POM entry
+
+
+	<dependency>
+			<groupId>com.ingen</groupId>
+			<artifactId>entity-transformer</artifactId>
+			<version>1.0.0</version>
+		</dependency>
